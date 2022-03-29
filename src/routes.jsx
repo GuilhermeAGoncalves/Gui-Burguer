@@ -7,7 +7,7 @@ import Pagamento from "./components/Pages/Pagamento";
 export default class RootRoutes extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path="/" exact component={Montagem} />
           <Route path="/pagamento" exact component={Pagamento} />
