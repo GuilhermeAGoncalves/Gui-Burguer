@@ -29,9 +29,11 @@ export const validateCardNumber = (value) => {
     erros.push("Cartão Não pode conter letras");
   }
 
-  if (value === 111111111111) {
+  if (value === "111111111111") {
     erros.push("Cartão Com uma sequencia");
   }
+
+  console.log(value);
 
   return erros;
 };
