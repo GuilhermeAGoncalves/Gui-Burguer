@@ -1,6 +1,6 @@
 # Gui-Burger
 
-Esse projeto foi desenvolvido para a avaliação final do módulo de Framework Front-End I | React.JS
+Esse projeto foi desenvolvido para a avaliação final do módulo de Framework Front-End I | React.JS e esta hospedado no link [Gui-Burger](https://guilhermeagoncalves.github.io/Gui-Burguer/)
 
 # Tecnologias
 
@@ -85,8 +85,6 @@ Se todos os campos forem preenchidos de acordo com o as regras, no modal conclui
 Se der negado vai aparecer so uma mensagem de erro.
 
 # Futuras Atualizações
-
-Publicar o site em algum servidor.
 
 Adicionar mais formas de pagamento, como por exemplo o PIX com um qr-code que vai ser cobrado o valor total do lanche, essa forma de pagamento poderia esta localizada abaixo do botão de pagamento podendo ter também outras formas de pagamento e seria botãos que vai trocar o formulario de Inputs, se a forma for cartão vai aparecer o formulario padrão se for pix vai ser um qr-code, se for pra pagar no dinheiro ser um form com cpf e nome.
 
