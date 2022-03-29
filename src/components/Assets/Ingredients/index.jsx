@@ -1,0 +1,67 @@
+export const ingredients = [
+  {
+    id: 0,
+    title: "Escolha Seu Pao",
+    subTitle: "Apenas Um Tipo",
+    ingredient: "bread",
+    moreOfThanOne: false,
+    options: [
+      { type: "Brioche", price: 5.0 },
+      { type: "Australiano", price: 4.0 },
+      { type: "Gergilim", price: 3.0 },
+      { type: "Sal", price: 2.5 },
+    ],
+  },
+  {
+    id: 1,
+    title: "Escolha Sua Carne",
+    subTitle: "Apenas Um Tipo",
+    ingredient: "beef",
+    moreOfThanOne: false,
+    options: [
+      { type: "Boi", price: 8.0 },
+      { type: "Porco", price: 6.0 },
+      { type: "Frango", price: 4.0 },
+      { type: "Vegetariano", price: 6.0 },
+    ],
+  },
+  {
+    id: 2,
+    title: "Escolha Seu Queijo",
+    subTitle: "Apenas Um Tipo",
+    ingredient: "cheese",
+    moreOfThanOne: false,
+    options: [
+      { type: "Molho Gorgonzola", price: 8.0 },
+      { type: "Prato", price: 6.0 },
+      { type: "Chedar", price: 6.0 },
+      { type: "Sem Queijo", price: 0 },
+    ],
+  },
+  {
+    id: 3,
+    title: "Escolha Suas Saladas",
+    subTitle: "Apenas Um Tipo",
+    ingredient: "salad",
+    moreOfThanOne: true,
+    options: [
+      { type: "Alface", price: 1.0 },
+      { type: "Tomate", price: 2.0 },
+      { type: "Cebola", price: 2.0 },
+      { type: "Mr.Picles", price: 4.0 },
+    ],
+  },
+  {
+    id: 4,
+    title: "Escolha Seus Complementos",
+    subTitle: "Apenas Um Tipo",
+    ingredient: "complement",
+    moreOfThanOne: true,
+    options: [
+      { type: "Bacon", price: 4.0 },
+      { type: "Cebola Caramelizada", price: 2.0 },
+      { type: "Molho caseiro da casa", price: 3.0 },
+      { type: "Pimenta Jalapeño", price: 3.0 },
+    ],
+  },
+];

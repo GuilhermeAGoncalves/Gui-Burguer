@@ -1,0 +1,23 @@
+.modalTitle {
+  color: #8e0000;
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+.modalContent {
+  font-size: 1.5rem;
+  margin-bottom: 100px;
+}
+
+.button {
+  display: block;
+  width: 250px;
+  font-size: 1rem;
+  padding: 5px;
+  border: none;
+  color: #fff;
+  background-color: rgb(198, 40, 40);
+  border-radius: 40px;
+  cursor: pointer;
+  margin: 20px auto;
+}

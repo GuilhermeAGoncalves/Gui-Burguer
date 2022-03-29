@@ -1,0 +1,38 @@
+.titles {
+  text-align: center;
+  color: #8e0000;
+  font-weight: 400;
+  margin-bottom: 40px;
+  font-size: 1.25rem;
+}
+
+.title {
+  margin-bottom: 5px;
+}
+.subTitle {
+  font-size: 1rem;
+}
+
+.listButton {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
+
+.buttonList {
+  padding: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+  background: none;
+  border: none;
+  border-radius: 40px;
+  background-color: #c62828;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.buttonList:hover {
+  background-color: #c79100;
+}
