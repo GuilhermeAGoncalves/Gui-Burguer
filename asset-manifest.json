@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gui-Burguer/static/css/main.20004e38.css",
+    "main.js": "/Gui-Burguer/static/js/main.3087b1e7.js",
+    "static/js/787.79c5dc63.chunk.js": "/Gui-Burguer/static/js/787.79c5dc63.chunk.js",
+    "static/media/logo.png": "/Gui-Burguer/static/media/logo.fa56f8afd6bfffdd2432.png",
+    "index.html": "/Gui-Burguer/index.html",
+    "main.20004e38.css.map": "/Gui-Burguer/static/css/main.20004e38.css.map",
+    "main.3087b1e7.js.map": "/Gui-Burguer/static/js/main.3087b1e7.js.map",
+    "787.79c5dc63.chunk.js.map": "/Gui-Burguer/static/js/787.79c5dc63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20004e38.css",
+    "static/js/main.3087b1e7.js"
+  ]
+}
